@@ -5,6 +5,11 @@
 
 ![macOS Desktop](./images/screenshot-0.png)
 
+## Languages
+
+- [English](README.md)
+- [Русский](README.ru.md)
+
 ## Prerequisite
 
 - Download & Install [VMWare Workstation](https://www.techspot.com/downloads/189-vmware-workstation-for-windows.html "Download VMWare Workstation on TechSpot").
